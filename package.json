@@ -1,0 +1,23 @@
+{
+  "name": "Web",
+  "version": "1.0.0",
+  "description": "You want help in the moldy web or any moldy project the project tab is here for make a project yo fork the current web page an send a Pull Request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikolaM-Dev/Web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikolaM-Dev/Web/issues"
+  },
+  "homepage": "https://github.com/NikolaM-Dev/Web#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
