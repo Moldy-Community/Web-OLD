@@ -1,0 +1,23 @@
+// Colors
+$cyan: hsl(174, 79%, 67%);
+$dark-blue: hsl(216, 100%, 8%);
+$blue: hsl(212, 94%, 72%);
+$white: hsl(44, 65%, 95%);
+$dark-gray: hsl(229, 13%, 44%);
+$gray: hsl(230, 22%, 74%);
+$gradient: linear-gradient(
+    125.78deg,
+    $cyan 8.59%,
+    rgba(255, 255, 255, 0) 102.41%
+  ),
+  $blue;
+$switch-light: linear-gradient(
+    125.78deg,
+    $gray 8.59%,
+    rgba(255, 255, 255, 0) 102.41%
+  ),
+  $dark-gray;
+
+// Font Sizes
+$font-sm: 1rem; // 16px
+$font-med: 1.125rem; // 18px
